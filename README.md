@@ -4,8 +4,6 @@ My name is yogendhar from india
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadigalayogendhar&count_private=true)
 
-### Hi there 👋, my is YOGENDHAR and from india
-
 #### Design and Development
 
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
